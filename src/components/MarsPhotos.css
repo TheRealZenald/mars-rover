@@ -1,0 +1,64 @@
+/* MarsPhotos.css */
+
+/* Container styles */
+.mars-photos-container {
+    text-align: center;
+    margin: 20px;
+    background-color: #333;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* Title styles */
+  .mars-photos-title {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+    color: #fff;
+  }
+  
+  /* List styles */
+  .photos-list {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  /* Photo item styles */
+  .photo-item {
+    margin: 10px;
+  }
+  
+  /* Photo image styles */
+  .photo-img {
+    max-width: 100%;
+    height: auto;
+    border: 2px solid #007bff;
+    border-radius: 10px;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+    transition: transform 0.2s ease;
+  }
+  
+  /* Hover effect for photos */
+  .photo-item:hover .photo-img {
+    transform: scale(1.05);
+  }
+  
+  /* Dark background for images */
+  .photo-item .photo-img {
+    background-color: #222;
+  }
+  
+  /* Modern fonts and hover effect for title */
+  .mars-photos-title {
+    font-family: 'Arial', sans-serif;
+    transition: color 0.3s ease;
+  }
+  
+  /* Hover effect for title */
+  .mars-photos-container:hover .mars-photos-title {
+    color: #007bff;
+  }
+  
