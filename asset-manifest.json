@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mars-rover/static/css/main.a89650ca.css",
+    "main.js": "/mars-rover/static/js/main.6d9fe45c.js",
+    "static/js/787.a87fd47d.chunk.js": "/mars-rover/static/js/787.a87fd47d.chunk.js",
+    "index.html": "/mars-rover/index.html",
+    "main.a89650ca.css.map": "/mars-rover/static/css/main.a89650ca.css.map",
+    "main.6d9fe45c.js.map": "/mars-rover/static/js/main.6d9fe45c.js.map",
+    "787.a87fd47d.chunk.js.map": "/mars-rover/static/js/787.a87fd47d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a89650ca.css",
+    "static/js/main.6d9fe45c.js"
+  ]
+}
